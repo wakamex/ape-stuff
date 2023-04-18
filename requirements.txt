@@ -1,0 +1,7 @@
+eth-ape
+ape-alchemy
+ape-etherscan
+mplfinance
+pandas
+numpy
+python-dotenv
